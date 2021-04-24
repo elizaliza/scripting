@@ -1,3 +1,5 @@
 !#/bin/bash
 
-Echo "Test1"
+echo "Test1"
+
+echo "Test2"
