@@ -1,14 +1,14 @@
-# scripting
-Basic System Admin Scripts
+# Basic Scripts for System Admins and System Engineers
 
+This repository contains some simple and useful scripts for system admins and system enginers.
 
+## Clone this repository.
 
+Run the following command. 
 
-
-
-
-
-
+```bash
+git clone https://github.com/elizaliza/scripting.git
+```
 
 ## Usage of [Bash_Scripts](bash_scripts)
 
